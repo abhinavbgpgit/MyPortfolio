@@ -1,0 +1,396 @@
+.body{
+    margin: 0;
+    padding: 0;
+   
+}
+.contact-pic-class
+    {
+         margin-top: 90px;
+         display: flex;
+        justify-content: center ;
+       
+           }
+           .contact-pic-top
+           {
+              
+               height: 100px;
+               width: 250px;
+               transition: ease 0.6s;
+           }
+           .contact-pic-top:hover
+           {
+               transform: scaleY(0.7) scaleX(0.7);
+           }
+.main-div{
+    display: flex;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+margin-bottom: 150px;
+    width: 90%;
+    height: 450px;
+    background: white;
+    box-shadow: rgba(12, 12, 182, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+    border-radius: 20px;
+}
+
+.left-frame{
+    background: url(../images/contact/leftbackground.jpeg);
+    background-size: 100% 100%;
+    width: 50%;
+    border-radius: 20px 0 0 20px ;
+    box-shadow: rgba(12, 12, 182, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+}
+.contact-info{
+   
+   
+   
+}
+.contact-information{
+   
+    padding-left: 20%;
+    padding-top: 40px;
+    font-size: 24px;
+    color: rgb(90, 137, 224);
+}
+.contact-statement{
+    
+   
+    padding-left: 30px;
+    padding-top: 20px;
+    font-size: 13px;
+    padding-right: 10px;
+    color: rgb(36, 90, 190);
+    
+}
+.three-logoes
+{
+    padding-bottom: 50px;
+    display: flex;
+    width: 100%;
+}
+.facebook-div{
+    
+    margin-left: 20px;
+     
+}
+.whatsapp-div{
+    
+    margin-left: 20px;
+     
+}
+.messanger-div{
+    
+    margin-left: 20px;
+     
+}
+.contact-pic{
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+   transition: ease 0.3s;
+    opacity: 0.7;
+}
+.contact-pic:hover
+{
+    -webkit-filter: drop-shadow(1px 1px 1px #222222);
+    filter: drop-shadow(4px 4px 4px #222222);
+    transform: scaleY(1.2) scaleX(1.2);
+    opacity: 1;
+}
+.email-phone-main{
+   
+    height: 25%;
+   
+    height: 37%;
+   
+}
+.phone{
+    width: 90%;
+    font-size: 18px;
+    margin-top: 70px;
+    margin-left: 14px;
+  
+    padding-right: 10px;
+    
+}
+.email{
+   
+    font-size: 18px;
+    margin-top: 0px;
+    margin-left: 14px;
+   
+    padding-right: 10px;
+   
+}
+
+/* right fram starts here  */
+
+
+.right-frame{
+   display: flex;
+    width: 50%;
+}
+
+.man{
+    position: absolute;
+    height: 500px;
+    width: 370px;
+    padding-bottom: -100px;
+    -webkit-filter: drop-shadow(1px 1px 1px #222222);
+    filter: drop-shadow(20px 20px 20px #222222);
+}
+
+.contact-fill{
+   
+    width: 80%;
+    border-radius: 20px;
+}
+
+
+
+
+.form-name-row1{
+    padding: 0px;
+    display: flex;
+    
+  
+    
+}
+.form-name-row2{
+    padding: 0px;
+    display: flex;
+    
+  
+    
+}
+
+.textbook{
+    width: 250px;
+    border: none;
+    border-bottom: solid 1px black;
+    padding: 3px;
+    opacity: 1;
+  }
+  .textbook:placeholder-shown {
+    border-color: teal;
+    color: purple;
+    font-style: italic;
+    opacity: 0.5;
+  }
+
+  .textbook2{
+    width: 250px;
+    border: none;
+    border-bottom: solid 1px black;
+    padding: 3px;
+    opacity: 1;
+  }
+  .textbook2:placeholder-shown {
+    border-color: teal;
+    color: purple;
+    font-style: italic;
+    opacity: 0.5;
+  }
+  .service-requirement{
+
+padding: 5px;
+border: solid 1px rgb(206, 193, 9);
+box-sizing: border-box;
+border-radius: 10px;
+width: 95%;
+background: rgba(255, 223, 182, 0.5);
+opacity: 1;
+  }
+.options{
+    display: flex;
+    padding: 10px;
+}
+.checkbook{
+    margin-left: 20px;
+}
+.fname1{
+    display: block;
+    padding: 20px;
+    margin-left: 20px;
+}
+.messagebook{
+    width: 350px;
+    height: 10px;
+    border: solid 1px black;
+    text-align: left;
+padding:  15px;
+padding-bottom:70px;
+
+}
+.messagebook:placeholder-shown {
+    border-color: teal;
+    color: purple;
+    font-style: italic;
+    opacity: 0.5;
+    font-size: 19px;
+  }
+.send-button{
+               
+    font-family: sans-serif;
+    text-decoration: none;
+    margin-left: 77%;
+    margin-top: 0px;
+    letter-spacing: 0px;
+    text-align: center;
+    transition: ease .35s;
+    height: 40px;
+    width: 120px;
+    background-color: #c21c1c; /* Red */
+    border: none;
+    color: white;
+    padding: 5px 3px 4px;
+   
+    
+    text-decoration: none;
+    
+    font-size: 18px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  border-radius: 5px;
+  }
+  
+  .send-button span{
+   
+    z-index: 2;
+  }
+  
+  .send-button:after{
+    
+    content: "";
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100%;
+    background: #0d3d3d;
+    transition: all .3s;
+    border-radius: 5px;
+  }
+  
+  .send-button:hover{
+    color: rgb(255, 255, 255);
+    border-color: rgb(255, 255, 255);
+    border-radius: 5px;    
+    background: #0d3d3d;
+  }
+  
+  .send-button:hover:after{
+    width: 100%;
+  }
+  .please-fill-the-form-text{
+    display: none;
+}
+/* 
+.map{
+    height: 700px;
+    width: 70%;
+    
+    margin-left: 10px;
+    border: solid 5px black;
+} */
+
+@media screen and (max-width: 600px)
+{
+    .main-div{
+        margin-bottom: 1000px;
+        display: flex;
+    flex-wrap: wrap;
+    }
+.right-frame{
+    display: none;
+}
+
+.left-frame{
+    background: url(../images/contact/leftbackground.jpeg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+  background-size: cover;
+    width: 100%;
+   
+    height: 100%;
+    border-radius: 20px 20px 20px 20px ;
+    box-shadow: rgba(12, 12, 182, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+}
+.contact-info{
+   
+   
+  
+}
+.contact-fill
+{
+   
+   display:flex;
+   flex-wrap: wrap;
+   margin-top: 50px;
+    margin-left: auto;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    width: 100%;
+    height: 800px;
+}
+.service-requirement
+{
+    width: 90%;
+    margin:auto
+}
+.options{
+    display: block;
+    padding: 5px;
+}
+.Fname{
+    margin-bottom: 0px;
+    padding-top: 20px;
+}
+
+.form-name-row1{
+    display: block;
+    margin-left: 30px;
+    padding-top: 30px;
+   
+}
+.form-name-row2{
+    display: block;
+    margin-left: 30px;
+    padding: 0px;
+   
+}
+.please-fill-the-form-text{
+    display: block;
+    color: chocolate;
+}
+.textbook2
+{
+    margin-left: 30px;
+}
+.send-button{
+    margin-left: 200px;
+    margin-bottom: 10px;
+}
+.facebook-div{
+    
+    margin-left: 10px;
+     
+}
+.whatsapp-div{
+    
+    margin-left: 10px;
+     
+}
+.messanger-div{
+    
+    margin-left: 10px;
+     
+}
+.messagebook{
+    width: 100%;
+    height: 10px;
+    border: none;
+    border-bottom: solid 1px black;
+    text-align: left;
+padding:  15px;
+padding-bottom:50px;
+}
+}

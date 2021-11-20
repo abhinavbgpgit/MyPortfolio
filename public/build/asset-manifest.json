@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.945ebaaa.chunk.css",
+    "main.js": "/static/js/main.50f9c697.chunk.js",
+    "main.js.map": "/static/js/main.50f9c697.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a44f664f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a44f664f.js.map",
+    "static/css/2.7b1c032f.chunk.css": "/static/css/2.7b1c032f.chunk.css",
+    "static/js/2.520339be.chunk.js": "/static/js/2.520339be.chunk.js",
+    "static/js/2.520339be.chunk.js.map": "/static/js/2.520339be.chunk.js.map",
+    "static/js/3.867bbeaa.chunk.js": "/static/js/3.867bbeaa.chunk.js",
+    "static/js/3.867bbeaa.chunk.js.map": "/static/js/3.867bbeaa.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.7b1c032f.chunk.css.map": "/static/css/2.7b1c032f.chunk.css.map",
+    "static/css/main.945ebaaa.chunk.css.map": "/static/css/main.945ebaaa.chunk.css.map",
+    "static/js/2.520339be.chunk.js.LICENSE.txt": "/static/js/2.520339be.chunk.js.LICENSE.txt",
+    "static/media/abhinav.5c96f69f.png": "/static/media/abhinav.5c96f69f.png",
+    "static/media/contact.a455a4df.png": "/static/media/contact.a455a4df.png",
+    "static/media/designer.dbdb1f11.png": "/static/media/designer.dbdb1f11.png",
+    "static/media/facebook.7d3f741d.png": "/static/media/facebook.7d3f741d.png",
+    "static/media/hilo.5d9aa7cf.png": "/static/media/hilo.5d9aa7cf.png",
+    "static/media/hosting.0a16442d.png": "/static/media/hosting.0a16442d.png",
+    "static/media/contact.css": "/static/media/leftbackground.efb9b223.jpeg",
+    "static/media/man.41fe5a3a.png": "/static/media/man.41fe5a3a.png",
+    "static/media/messanger.ab6759fb.png": "/static/media/messanger.ab6759fb.png",
+    "static/media/div.css": "/static/media/operator-bg.c8461ea2.png",
+    "static/media/responsive.79861560.png": "/static/media/responsive.79861560.png",
+    "static/media/service.07b8169c.png": "/static/media/service.07b8169c.png",
+    "static/media/service2.e7683921.png": "/static/media/service2.e7683921.png",
+    "static/media/signature.eabdb105.png": "/static/media/signature.eabdb105.png",
+    "static/media/web-degine-logo.f07c2d33.jpg": "/static/media/web-degine-logo.f07c2d33.jpg",
+    "static/media/website-maintenance.d5913ff3.png": "/static/media/website-maintenance.d5913ff3.png",
+    "static/media/whatsapp.b04e67fe.png": "/static/media/whatsapp.b04e67fe.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a44f664f.js",
+    "static/css/2.7b1c032f.chunk.css",
+    "static/js/2.520339be.chunk.js",
+    "static/css/main.945ebaaa.chunk.css",
+    "static/js/main.50f9c697.chunk.js"
+  ]
+}
